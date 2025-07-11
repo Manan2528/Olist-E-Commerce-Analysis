@@ -1,6 +1,6 @@
 ## 📖 Overview
 
-This project performs a comprehensive **Exploratory Data Analysis (EDA)** on real-world e-commerce data from **Mercado Livre**, one of the largest online marketplaces in Brazil. The analysis uses Python and SQL to extract insights on customer behavior, order trends, payment patterns, seller performance, and product sales.
+This project performs a comprehensive **Exploratory Data Analysis (EDA)** on real-world e-commerce data from **Olist**, one of the largest online marketplaces in Brazil. The analysis uses Python and SQL to extract insights on customer behavior, order trends, payment patterns, seller performance, and product sales.
 
 The dataset consists of multiple CSV files and relational tables covering orders, customers, payments, products, sellers, and more.
 
