@@ -8,7 +8,7 @@ The dataset consists of multiple CSV files and relational tables covering orders
 
 ## 🎯 Problem Statement
 
-Mercado Livre generates large volumes of data from daily online sales activity. Understanding this data is critical for improving marketing, operations, and customer retention.  
+Olist generates large volumes of data from daily online sales activity. Understanding this data is critical for improving marketing, operations, and customer retention.  
 The aim of this project is to answer key business questions such as:
 
 - What are the top-performing product categories?
